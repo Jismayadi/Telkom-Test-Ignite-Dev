@@ -1,1 +1,1 @@
-# For Telkom Ignite Dev Programs
+# Telkom Ignite Dev Programs
